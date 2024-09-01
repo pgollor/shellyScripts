@@ -1,0 +1,7 @@
+[
+  {
+    "fname": "ble-shelly-wall-switch-4.js",
+    "title": "BLE in Scripting - Shelly BLU Wall Switch 4 script actions",
+    "description": "Example how to use a Shelly Wall Switch 4, read advertising data, decode and turn on switch. (Requires firmware version\n0.12.0-beta1 or newer)"
+  },
+]
